@@ -1,4 +1,4 @@
-// Place your key bindings in this file to override the defaults
+// General keybindings
 [
     {
         "key": "f12",
@@ -87,6 +87,7 @@
         "key": "ctrl+z",
         "command": "workbench.action.toggleZenMode"
     },
+    // ctrl+n & ctrl+p for moving through menus
     {
         "key": "ctrl+n",
         "command": "selectNextSuggestion",
